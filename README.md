@@ -202,7 +202,7 @@ NOTE: Replace YourUsername with your actual Windows login name.
 - This MCP server runs locally only — no data leaves your machine
 - TShark requires Administrator privileges for live capture on Windows
 - Only capture on networks you own or have permission to monitor
-- All captured data stays in your local files
+- MCP server is read only. All captured data is processed in memory.
 
 ---
 
@@ -217,4 +217,4 @@ NOTE: Replace YourUsername with your actual Windows login name.
 
 ---
 
-Built for cybersecurity analysts learning agentic AI workflows with Claude Desktop on Windows 10.
+Built for cybersecurity analysts learning agentic AI workflows with Claude Desktop on Windows.
