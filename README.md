@@ -1,5 +1,5 @@
 # 🦈 Wireshark MCP Server for Claude Desktop
-### Windows 10 Setup Guide — Connect Claude AI to Wireshark
+### Windows Setup Guide — Connect Claude AI to Wireshark
 
 ---
 
