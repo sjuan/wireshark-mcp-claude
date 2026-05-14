@@ -25,7 +25,7 @@ This setup connects **Claude Desktop** to **Wireshark/TShark** using the
 
 | Requirement | How to Check |
 |---|---|
-| Windows 10 | You are on it already |
+| Windows | You are on it already |
 | Wireshark installed | Open Start Menu and search "Wireshark" — it should appear |
 | Python 3.9+ | Open Command Prompt and type: python --version |
 | Claude Desktop | Download from https://claude.ai/download |
