@@ -1,0 +1,17 @@
+{
+  "preferences": {
+    "coworkWebSearchEnabled": true,
+    "sidebarMode": "chat",
+    "coworkScheduledTasksEnabled": true,
+    "ccdScheduledTasksEnabled": true
+  },
+  "mcpServers": {
+    "wireshark": {
+      "command": "mcp-wireshark",
+      "env": {
+        "PATH": "C:\\Program Files\\Wireshark;C:\\Windows\\System32",
+        "WIRESHARK_CAPTURE_DIR": "C:\\Users\\YourUsername\\Documents\\Wireshark_captures"
+      }
+    }
+  }
+}

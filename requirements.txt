@@ -1,0 +1,30 @@
+# Wireshark MCP Server — Windows Setup
+# =========================================
+# You do NOT need to install anything from this file manually.
+# Simply run the single command below in Command Prompt:
+#
+#     pip install mcp-wireshark
+#
+# That one command installs everything needed to connect
+# Claude Desktop to Wireshark on Windows.
+#
+# =========================================
+# What gets installed automatically:
+# =========================================
+
+mcp-wireshark       # The Wireshark MCP server package
+
+# =========================================
+# Separate requirements (installed manually):
+# =========================================
+#
+# Python 3.9+
+#   Download from: https://www.python.org/downloads/
+#   During install: tick "Add python.exe to PATH"
+#
+# Wireshark + TShark
+#   Download from: https://www.wireshark.org/download.html
+#   During install: make sure TShark is ticked
+#
+# Claude Desktop
+#   Download from: https://claude.ai/download
